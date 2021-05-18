@@ -1,0 +1,492 @@
+bread ; top notch ; POS
+delivery times ; fastest ; POS
+food ; fresh ; POS | food ; hot ; POS
+coffee ; outstanding ; POS
+place ; clean ; POS
+people ; trust ; POS
+japanese food ; decent ; POS
+asian salad ; great ; POS | spicy tuna roll ; best ; POS
+rose roll ; try ; POS
+drinks ; love ; POS | l ##ych ##ee martini ; love ; POS | food ; good ; POS
+menu ; decent ; POS
+food ; top - notch ; POS | live entertainment ; top - notch ; POS
+waiter ; horrible ; NEG | waiter ; rude ; NEG | waiter ; di ##sin ##ter ##ested ; NEG
+sang ##ria ; watered down ; NEG
+menu ; uneven ##tf ##ul ; NEG | menu ; small ; NEG
+su ##shi ; fresh ; POS | portions ; great ; POS | price ; reasonable ; POS
+food ; great ; POS | service ; dreadful ; NEG
+portions of the food ; med ##io ##cre ; NEU
+staff me ##me ##bers ; friendly ; POS | parking ; convenient ; POS
+dessert ##s ; incredible ; POS | tar ##t of the day ; favorite ; POS
+food ; ta ##sty ; POS | food ; creative ##ly presented ; POS | wine ; excellent ; POS
+las ##ag ##na ; best ; POS
+array of su ##shi ; fresh ##est ; POS | array of su ##shi ; most delicious ; POS
+cuisine ; superb ; POS | owners ; friendly ; POS | staff ; friendly ; POS
+indian food ; serious ; POS | am ##bian ##ce ; cozy ; POS
+food ; enjoyed ; POS
+service ; delightful ; POS | garden ; adorable ; POS | food ; del ##ect ##able ; POS | app ##eti ##zers ; del ##ect ##able ; POS | en ##tree ##s ; del ##ect ##able ; POS
+food ; good ; POS | decor ; nice ; POS
+lunch ; power ; NEG | dinners ; power ; NEG
+steak ##s ; wasted ; NEG
+staff ; friendly ; NEG
+meat ##ball par ##m ; good ; POS
+latin food ; good tasting ; POS | latin food ; well seasoned ; POS
+tag ##lier ##ini with tr ##uf ##fles ; try ; POS | tag ##lier ##ini with tr ##uf ##fles ; incredible ; POS
+staff ; at ##ten ##tive ; POS | staff ; persona ##ble ; POS
+g ##no ##cchi ; melt ##s ; POS
+staff ; pleasant ; POS | food ; ta ##sty ; POS | portion size ; large ; POS | porto ##bell ##o / go ##rgo ##nzo ##la / sausage app ##eti ##zer ; recommend ; POS | lobster ri ##so ##tto ; recommend ; POS
+food ; good ; POS | ter ##iya ##ki ; recommend ; POS
+meal ; expensive ; NEG
+peanut butter so ##rb ##et ; try ; POS | pizza with soy cheese ; try ; POS
+food ; good ; POS | price ; right ; POS
+food ; top notch ; POS | service ; at ##ten ##tive ; POS | atmosphere ; great ; POS
+food ; great ; POS | waits ##taff ; great ; POS | atmosphere ; great ; POS | beer ; best ; POS | beer ; great ; POS
+food ; inexpensive ; POS | food ; good ; POS | kim ##ono shrimp special ; excellent ; POS | atmosphere ; great ; POS
+menu ; interesting ; POS | menu ; reasonably priced ; POS | priced ; reasonably ; POS
+food ; delicious ; POS | ingredients ; fresh ; POS
+food ; was n ' t cooked fresh ; NEG
+app ##eti ##zer ; excellent ; POS | meal ; great ; POS | meal ; inexpensive ; POS
+spicy mu ##ssel ##s ; highlight ; POS
+onion rings ; best ; POS
+food ; utterly disappointed ; NEG
+portions ; huge ; POS | service ; great ; POS | service ; at ##ten ##tive ; POS | prices ; good ; POS
+service ; disappointed ; NEG | food ; disappointed ; NEG
+waiter ; rude ##ness ; NEG | manager ; rude ##ness ; NEG
+food ; great ; POS | milk ##sha ##kes ; better ; POS
+mushroom barley soup ; amazing ; POS
+food ; good ; POS | staff ; friendly ; POS | staff ; court ##eous ; POS | staff ; efficient ; POS
+duck ; delicious ; POS
+drinks ; fantastic ; POS | food ; superb ; POS
+currie ##d cass ##ero ##les ; harsh ; NEG
+food ; excellent ; POS
+taste ; pleasantly surprised ; POS
+seafood ; great ; POS
+atmosphere ; relaxing ; POS | atmosphere ; laid - back ; POS
+meat ##s ; sub ##stand ##ard ; NEG
+management ; less than acc ##omo ##dating ; NEG
+am ##bie ##nce ; laid - back ; POS | am ##bie ##nce ; relaxed ; POS
+tea ##s ; great ; POS | sweets ; homemade ; POS
+mo ##jit ##os ; best ; POS | service ; best ; POS
+sandwiches ; classic successes ; POS | burger ##s ; classic successes ; POS | salad ##s ; classic successes ; POS | lemon - dressed cobb ; classic successes ; POS
+design ; intimate ; POS | design ; romantic ; POS
+food ; wonderful ; POS | food ; imaginative ; POS
+staff ; sharp ; POS | staff ; good ; POS
+taste ; worst ; NEG
+fa ##jit ##a ; taste ##less ; NEG | fa ##jit ##a ; burned ; NEG | mole sauce ; too sweet ; NEG
+atmosphere ; warm ; POS | atmosphere ; arts ##y ; POS | atmosphere ; sexy ; POS
+food ; great ; POS | selection ; big ; POS | prices ; reasonable ; POS | drinks ; good ; POS
+waiter ##s ; cute ; POS | waiter ##s ; friend ##liness ; POS
+priced ; reasonably ; POS
+selection of food ; excellent ; POS | atmosphere ; great ; POS
+dessert ; over ##pr ##ice ##d ; NEG | taste ; short ; NEG
+food ; decent ; POS | food ; not great ; POS
+bar ; qu ##aint ; POS | food ; good ; POS
+waiter ##s ; angry ; NEG
+atmosphere ; nice ; POS
+food ; more expensive then typical ; POS
+wraps ; fresh ; POS | wraps ; ta ##sty ; POS | burger ##s ; fresh ; POS | burger ##s ; ta ##sty ; POS | salad ##s ; fresh ; POS | salad ##s ; ta ##sty ; POS | mango margaret ##a ; well worth ; POS
+service ; friendly ; POS | service ; good ; POS
+waiter ; friendly ; POS
+folding chair ; uncomfortable ; NEG
+service ; best ; POS
+fe ##tt ##uc ##ino alfredo ; amazing ; POS
+food ; good ; POS | vega ##n options ; many ; POS
+smoked trout ; try ; POS | lamb chop ##s ; try ; POS | ve ##al chop ##s ; try ; POS | rabbit ; try ; POS | potato gr ##atin ; try ; POS
+food ; right on target ; POS | service ; right on target ; POS
+eggs benedict ; well ; POS | eggs benedict ; ta ##sty ; POS | mu ##ssel ##s ; well ; POS | mu ##ssel ##s ; ta ##sty ; POS | hamburger ; well ; POS | hamburger ; ta ##sty ; POS
+waiter ##s ; professional ; POS | waiter ##s ; court ##eous ; POS | waiter ##s ; at ##ten ##tive ; POS
+fa ##la ##fa ##l ; over cooked ; NEG | fa ##la ##fa ##l ; dried ; NEG | chicken ; fine ; POS
+grand mar ##nier shrimp ; recommend ; POS | grand mar ##nier shrimp ; good ; POS
+food ; enjoy ; POS | food ; great ; POS | service ; good ; POS
+portions ; small ; NEG
+wait staff ; loud ; NEG | wait staff ; inc ##ons ##ider ##ate ; NEG
+food ; lacking ; NEG | service ; lacking ; NEG
+su ##shi ; bigger ; NEG
+service ; great ; POS | soup ; great ; POS | soup ; hot ; POS
+cr ##ep ##es ; delicious ; POS
+dessert ##s ; good ; POS | cr ##eme br ##ule ##e ; silk ##en ; POS | apple tar ##t ; thin ; POS
+shrimp creole ; delicious ; POS
+chicken dinner ; good ; POS
+food ; delicious ; POS
+ribs ; try ; POS | beef ; try ; POS
+av ##oca ##do salad ; fa ##ve ; POS
+honey bb ##q rib tips ; yu ##mmy ; POS
+chinese food ; best ; POS
+service ; happy ; POS
+staff ; friendly ; POS
+waiter ##s ; friendly ; POS | pasta ; out of this world ; POS
+wine list ; great ; POS | cocktail menu ; great ; POS
+crab cakes ; delicious ; POS | bb ##q rib ; perfect ; POS
+food ; wonderful ; POS | food ; art ##fully ; POS | food ; delicious ; POS
+service ; fast ; POS
+service ; highest ; POS | dessert ##s ; free ; POS
+atmosphere ; beautiful ; POS | drinks ; perfect ; NEU | app ##eti ##zers ; perfect ; NEU
+pizza ; best ; POS
+service ; comforting ; POS | food ; better than average ; POS | beer list ; extensive ; POS
+service ; excellent ; POS
+hot ##dog ##s ; worst ; NEG
+staff ; friendly ; POS | sa ##ag go ##sh ##t ; good ; POS
+garlic knots ; recommend ; POS
+indian food ; best ; POS
+pizza ; best ; POS
+music ; too heavy ; NEG
+service ; excellent ; POS | service ; inform ##ative ; POS
+su ##shi ; fresh ; POS | su ##shi ; yu ##mmy ; POS | menu ; varied ; POS
+food ; great ; POS | su ##shi ; good ; POS | cooked food ; amazed ; POS
+dinner specials ; fantastic ; POS
+food ; great ; POS | drinks ; great ; POS | dining atmosphere ; nice ; POS
+food portion ; small ; NEG | food portion ; below average ; NEG
+chairs ; comfortable ; POS
+ta ##cos pastor ; fa ##vs ; POS | to ##stad ##a de ting ##a ; fa ##vs ; POS
+bartender ##s ; nice ; POS | managers ; nice ; POS | decor ; com ##fy ; POS | decor ; laid - back ; POS
+hot and sour soup ; try ; POS | soup and sandwich meal ; sa ##vor ##y ; POS
+drinks ; great ; POS | atmosphere ; cool ; POS | service ; excellent ; POS | food ; delicious ; POS
+chick peas with shrimp ( app ##eti ##zer ) ; divine ; POS
+service ; bad ; NEG
+lamb ; perfectly cooked ; POS | lamb ; awesome ; POS
+soft shell crab sandwich with fries ; like ; POS
+hong kong - style food ; authentic ; POS
+food ; good ; POS | wine ; good ; POS
+staff ; friendly ; POS | staff ; pleasant ; POS
+kitchen food ; delicious ; POS | su ##shi ; out of this world ; POS
+service ; excellent ; POS | waitress ##es ; cute ; POS | atmosphere ; lush ; POS
+italian food ; traditional ; POS | italian food ; simple ; POS
+food ; good ; POS | rolls ; excellent ; POS
+sash ##imi ; thin ##ly ; NEG
+hot dogs ; great ; POS | breakfast sandwiches ; wonderful ; POS | ta ##tor to ##ts ; great ; POS | english mu ##ffin ##s ; great ; POS | pork product ; delicious ; POS
+manager ; grace ##less ; NEG | bartender ; rude ; NEG | drinks ; waiting ; NEU | waiting ; rude ; NEG
+service ; great ; POS | atmosphere ; romantic ; POS | atmosphere ; comfortable ; POS
+green chill ##is ; not edible ; NEG | dish ; edible ; NEG
+service ; worst ; NEG | food ; below average ; NEG
+fresh juice con ##co ##ctions ; fresh ; POS
+food ; great ; POS | prices ; reasonable ; POS
+place ; clean ; POS | soul food ; like ; POS
+chicken with av ##oca ##do ; good ; POS | tuna ; good ; POS
+meals ; terrible ; NEG
+chicken ; dried out ; NEG | sauce ; not very flavor ##ful ; NEG
+mal ##ted milk ball gel ##ato ; wonderful ; POS
+meal ; terrible ; NEG
+service ; horrible ; NEG
+bar service ; slow ; NEG
+dessert ; die for ; POS
+service ; good ; POS
+lighting ; una ##tt ##ractive ; NEG | food ; over ##pr ##ice ##d ; NEG | disco pop duo ; awful ; NEG
+place ; cozy ; POS
+service ; great ; POS
+food ; delicious ; POS | food ; recommended ; POS
+meal ; filling ; POS | meal ; healthy ; POS
+food ; fuss ##y ; NEU
+service ; outstanding ; POS
+pizza ; enjoy ; POS
+service ; good ; POS
+chicken ; great ; POS
+food ; great ; POS
+host ( owner ) ; persona ##ble ; POS | host ( owner ) ; caring ; POS | servers ; persona ##ble ; POS | servers ; caring ; POS
+hostess ; kind ; POS | hostess ; gr ##acious ; POS
+food ; good ; POS | service ; great ; POS
+dining experience ; miserable ; NEG
+indian food ; best ; POS
+waiter ##s ; friendly ; POS | waiter ##s ; helpful ; POS
+interior ; charming ; POS | service ; friendly ; POS | service ; at ##ten ##tive ; POS
+food ; creative ; POS | decor ; creative ; POS
+menu ; great ; POS | selection ; good ; POS
+sauce ; ze ##sty ; POS | sauce ; flavor ##ful ; POS | crust ; nice ; POS | crust ; crisp ##y ; POS
+su ##shi ; best ; POS
+selection ; excellent ; POS | rolls with crab ; great ; POS
+host ; helpful ; POS | bartender ; helpful ; POS | servers ; helpful ; POS
+food ; fantastic ; POS
+potato spin ##ach g ##no ##cchi ; favourites ; POS | lamb ; favourites ; POS
+sandwiches ; star ; POS
+port ; quality ; POS | portuguese cheese cart ; perfect ; POS
+blue ##berry pancakes ; wonderful ; POS
+food ; happy ; POS | bill ; thrilled ; POS
+topping ##s ; fresh ; POS | crust ; perfect ; POS
+service ; amazing ; POS | food ; love ; POS
+waits ##taff ; sol ##ici ##tou ##s ; POS | waits ##taff ; friendly ; POS | food ; wonderful ; POS
+lobster ravi ##oli ; love ; POS
+meal ; enjoyed ; POS
+service ; excellent ; POS | wait ; no ; POS
+food ; is n ' t cheap ; NEG
+coffee ; better ; POS | co ##si sandwiches ; over ##pr ##ice ##d ; NEG
+prices ; modest ; POS
+food ; good ; POS | food ; popular ; POS | waiting ; nightmare ; NEG
+am ##bie ##nce ; great ; POS
+food ; plenty ; POS
+crust ; dry ; NEG | crust ; burnt ; NEG
+food ; good ; POS
+cake ; average ; NEG
+dinner ; wonderful ; NEU
+service ; perfect ; POS
+del ##mon ##ico steak ; not cooked ; NEG
+service ; fast ; POS | service ; friendly ; POS | value ; great ; POS
+food ; impressed ; POS | value ; impressed ; POS
+garlic soup ; try ; POS
+fa ##la ##fe ##l ; delicious ; POS | tab ##ou ##le ##h ; delicious ; POS | hum ##us ; delicious ; POS | mediterranean delight ##s ; delicious ; POS | mediterranean delight ##s ; inexpensive ; POS
+pizza ' s ; fresh ; POS | pizza ' s ; crisp ##y ; POS | pizza ' s ; ready to serve ; POS
+staff ; acc ##omo ##dating ; POS
+su ##shi ; fresh ; POS | priced ; reasonably ; POS
+ape ##ti ##zers ; good ; POS | sang ##ria ; good ; POS
+service ; prompt ; POS | server ; friendly ; POS
+staff ; warmly ; POS | food ; excellent ; POS
+service ; good ; POS
+host ; rude ; NEG | hostess ; rude ; NEG
+wait staff ; friendly ; POS | meal ; great ; POS
+salmon dishes ; recommend ; POS
+f ##oi ##e gr ##as ; sweet ; POS | f ##oi ##e gr ##as ; lu ##sc ##ious ; POS
+menu ; changes ; NEU
+mac cheese ; yu ##mmy ; POS
+jazz singer ; nice ; POS
+service ; quick ; POS | service ; great ; POS
+food ; average ; NEU | breakfast food ; average ; NEU | soup ##s ; average ; NEU | salad ##s ; average ; NEU | sandwiches ; average ; NEU
+food ; disappointed ; NEG
+crab ##cake ##s ; over salt ##ed ; NEG | mac and cheese ; greasy ; NEG
+staff ; arrogant ; NEG | prices ; high ; NEG
+service ; prompt friendly ; POS
+food ; hot spot ; POS
+downstairs bar scene ; cool ; POS | downstairs bar scene ; chill ; POS
+food ; good ; POS
+tequila ; not be disappointed ; POS
+beer selection ; great ; POS | beers ; great ; NEU
+del ##ivar ##y ; wary ; NEG
+food ; good ; POS | food ; much less expensive ; POS | owner ; good ; POS
+g ##no ##cchi ; recommend ; POS | g ##no ##cchi ; yu ##m ; POS
+vegetable ri ##so ##tto ; burnt ; NEG | flavor ; burnt ; NEG
+price ; draw ; POS
+dinner ; never disappointing ; POS | prices ; over the top ; NEG
+sandwiches ; amazing ; POS | soup ; amazing ; POS | pizza ; amazing ; POS | homemade so ##rb ##ets ; out of this world ; POS
+homemade gu ##aca ##mo ##le ; unbelievable ; POS | homemade gu ##aca ##mo ##le ; amazing ; POS | en ##tree ; unbelievable ; POS | deserts ; amazing ; POS
+su ##shi ; reasonably priced ; POS | su ##shi ; fresh ; POS | priced ; reasonably ; POS
+deserts ; die for ; POS
+traditional italian items ; great ; POS | traditional italian items ; cheap ; POS | setting ; cozy ; POS
+service ; slow ; NEG | portions ; small ; NEG
+pizza ' s ; great ; POS | pizza ' s ; ta ##sty ; POS | pizza ' s ; mouth watering ; POS
+service ; poor ; NEG | food ; below average ; NEG
+food ; great cheap ; POS | staff ; friendly ; POS
+chef ; talent ; POS
+indian food ; great ; POS | service ; good ; POS
+odessa stew ; good ; POS | rabbit stew ; good ; POS | salad ##s ; good ; POS | ko ##mp ##ot ; refreshing ; POS
+lunch ; healthy ; POS
+quality of the meat ; on par ; NEG
+black roasted cod ##fish ; recommend ; POS | black roasted cod ##fish ; best ; POS | dish ; best ; POS
+waiter ; annoyed ; NEG
+taste ; microwave ; NEG | chicken ; dark ; NEG
+reservation ; recommend ; NEU
+br ##un ##ch ; impressed ; NEU
+su ##shi ; ok ; NEU
+food ; outstanding ; POS | served ; quickly ; POS
+food ; delicious ; POS | bar ; great ; POS | vibe ; great ; POS
+food ; simple healthy un ##gl ##amo ##rous ; POS | food ; cheap ; POS
+dining experience ; fantastic ; POS
+food ; good ; POS | service ; quick ; POS | service ; at ##ten ##tative ; POS | service ; busy ; POS
+place ; adorable ; POS | food ; delicious ; POS
+japanese food ; better ; NEG
+staff members ; friendly ; POS
+atmosphere ; cool ; POS
+sash ##imi portion ; big ; POS | art ##ific ##al lobster meat ; did n ' t like ; NEG | art ##ific ##al lobster meat ; art ##ific ##al ; NEG
+ingredients ; fresh ; POS | ingredients ; yu ##mmy ; POS
+dinner ; lovely ; POS | food ; well - prepared and - presented ; POS | service ; pleasant ; POS | service ; prompt ; POS
+cake ; fluffy ; POS | cake ; not ultra sweet ; POS | cake ; creamy ; POS | cake ; light ; POS
+staff ; ha ##rrie ##d ; NEG | slices ; expensive ; NEG
+wait staff ; ignored ; NEG
+wine list ; extensive ; POS | priced ; well ; POS
+salad ##s ; fresh ; POS | salad ##s ; ta ##sty ; POS
+bathroom ; adorable ; POS
+delivers ; speedy ; POS | food ; great ; POS | prices ; decent ; POS | service ; friendly ; POS | rep ##ast ; enjoyable ; POS
+italian meal ; authentic ; NEU
+pizza ; worth the wait ; POS
+steak ; simple medium rare ; NEU
+organic grille ##d burger ##s ; generous ##ly ga ##rn ##ished ; POS | organic grille ##d burger ##s ; popular ; POS | dish ; popular ; POS | jerusalem market - style fa ##la ##fe ##l wraps ; equally sc ##rum ##pt ##ious ; POS
+dining experience ; worst ; NEG
+texture ; great ; POS | texture ; soft ; POS | texture ; velvet ##y ; POS | hint of cocoa ; nice ; POS
+flavor ; full ; POS | twist on pizza ; healthy ; POS
+ac ; lack ; NEG
+service ; rude ; NEG | sales people ; rude ; NEG
+location ; convenient ; NEG
+food ; simple ; POS | food ; satisfying ; POS
+food ; great ; POS
+food ; excellent ; POS | italian cuisine ; authentic ; POS | italian cuisine ; fresh ; POS
+atm ##osh ##ere ; changes ; POS
+place ; not - crowded ; POS | food ; great ; POS | service ; great ; POS
+coffee ; better ; POS
+wine list ; disappointing ; NEG
+priced ; high ; NEG | food ; nasty high priced ; NEG
+new hamburger with special sauce ; ok ; POS | big mac ; better than ; NEG
+pasta ; perfectly ; POS | sauce ; not drowned in ; NEU | portions ; generous ; POS
+service ; awful ; NEG | staff ; overwhelmed ; NEG
+owners ; good ; POS
+owner ; lovely ; POS | owner ; friendly ; POS
+place ; wonderful ##ly warm welcoming ; POS
+meal ; perfect ; POS | meal ; quick ; POS
+place ; great ; POS
+service ; great ; POS
+food ; authentic ; POS
+fortune cookies ; complaint ; NEG
+su ##shi lunch ; good ; POS | su ##shi lunch ; quick ; POS
+service ; dreadful ##ly slow ; NEG
+meal ; excellent ; POS
+fried pork dump ##lings ; rec ##com ##end ; POS | orange chicken / beef ; rec ##com ##end ; POS | fried rice ; rec ##com ##end ; POS
+menu ; not be di ##ssa ##point ##ed ; POS
+french fries - - with the ka ##lma ##ta dip ; terrific ; POS
+boutique selection of wines ; wide ; NEU
+assortment of wraps ; great ; POS | traditional mediterranean fare ; great ; NEU
+fresh ve ##gg ##ies ; fresh ; POS | fresh ve ##gg ##ies ; delicious ; POS | middle eastern spreads ; delicious ; POS | cheese ; delicious ; POS | fa ##la ##fe ##l ; delicious ; POS | soup ; delicious ; POS | fish ; delicious ; POS | rice ; delicious ; POS | root vegetables ; delicious ; POS | rice medley ; delicious ; POS | spin ##ach thing ; delicious ; POS | lamb ke ##ba ##bs ; delicious ; POS | cheese ba ##cl ##ava ; delicious ; POS | foo ##ood ; delicious ; POS
+sake ##tin ##i ; wonderful ; POS | bar menu ; disappointing ##ly ; NEG
+martini ##s ; exotic ; POS
+happy hour ; cheap ; POS
+waiter ; br ##us ##quel ##y ; NEG
+qu ##ail ##ity ; above ; POS | atmosphere ; above ; POS
+space ; quick ; NEG | space ; ta ##sty ; NEG | prices ; dirt - cheap ; POS | treats ; ta ##sty ; POS
+menu ; typical french ; NEU | menu ; varied ; NEU
+seats ; lots ; POS
+food ; top quality ; POS | attitude ; positive ; POS
+place ; nice ; POS | service ; excellent ; POS
+food ; excellent ; POS | price ; good ; POS
+burr ##ito ; gigantic ; POS | ta ##cos ; gigantic ; POS
+space ; traditional ; NEU
+food ; med ##io ##cre ; NEG | interior ; small ; NEG | interior ; average ; NEG | owners ; unpleasant ##ries ; NEG | owners ; rude ; NEG | owners ; s ##not ##ty ; NEG
+service ; good ; POS | food ; great ; POS | value ; good ; POS | wait ; never ; POS
+egg mc ##mu ##ffin sandwich ; available ; NEU | hot cakes ; available ; NEU
+service ; average ; NEU | food ; inc ##ons ##istan ##t ; NEG
+music ; fascinating ; POS | bartender ; superb ; POS | drinks ; superb ; POS
+ice drink ; refreshing ; POS
+dishes ; creative ; POS | king crab salad with passion fruit vin ##ai ##gre ##tte ; creative ; POS | fe ##tt ##ucci ##ne with grille ##d seafood in a rosemary - orange sauce ; unexpected ; POS | bis ##tro menu ; unexpected ; NEU
+dishes ; tried - and - true ; POS | recipes ; tried - and - true ; POS | mac ##ada ##mia - crust ##ed ma ##hi ma ##hi ; tried - and - true ; POS | sweet honey - mustard beef short ribs ; tried - and - true ; POS | sweet honey - mustard beef short ribs ; sweet ; POS
+cold sesame noodles ; del ##ect ##able ; POS
+food ; marginal ##ly so - so ; NEG
+fen ##nel flavor ##ed italian sausage ; heavy ; NEG
+dinner ; nice ; POS
+delivery ; prompt ; POS | value ; good ; POS
+sandwiches ; good ; POS
+hostess ; rude ; NEG
+dinner ; awesome ; POS
+food ; authentic ; POS | staff ; off - the - boat ; POS | staff ; young ; POS | staff ; hip ; POS
+music ; good ; POS | tap ##as ; nice ; POS | selection of wines ( primarily spanish ) ; interesting ; POS | client ##ele ; low ##key hip ; POS
+food ; great ; POS | dump ##lings ; love ; POS | cold sesame noodles ; love ; POS | chicken ; love ; POS | shrimp dish ##s ; love ; POS
+place ; fun ; POS
+duck con ##fi ##tte ; solid ; POS
+wine list ; superb ; POS | tap ##as ; delightful ; POS | atmosphere ; quiet ; POS | atmosphere ; perfect ; POS
+food ; go ##ur ##met ; POS
+food ; love ; POS | service ; wonderful ; POS | prices ; reasonable ; POS
+food ; delicious ; POS
+meal ; great ; POS
+food ; amazing ; POS | service ; amazing ; POS
+dinner menu ; variety ; POS | dinner menu ; great ; POS | en ##tree ##s ; great ; POS | seafood ; fresh ; POS | steak ##s ; huge ; POS
+menu ; strange ##st ; NEG | food ; fancy ; NEG
+app ##eti ##zers ; ok ; NEU | service ; slow ; NEG
+food ; not worth ; NEG | price ; not worth ; NEG
+en ##tree ; wrong ; NEU
+prices ; not terrible ; POS
+hal ##ib ##ut cheek app ##eti ##zer ; positive ; NEU | portion of f ##oi ##e gr ##as ; generous ; POS
+food ; excellent ; POS | em ##pen ##ada ##s ; excellent ; POS | plain ##tain ##s ; good ; POS | afternoon snack ; good ; POS
+pasta specials ; amazing ; POS | app ##eti ##zer ; amazing ; POS
+big mac ; favorites ; POS | chicken mc ##nu ##gg ##ets ; favorites ; POS | file ##t - o - fish sandwich ; favorites ; POS | mcdonald ' s famous french fries ; favorites ; POS | en ##tree - sized salad ##s ; lighter options ; NEU
+pizza ; go for ; POS
+tables ; close ; NEG
+scene ; great ; POS
+ve ##gg ##ie burger ; extraordinary ; POS | chick ##pe ##as ; distinctive ; POS | carrot ##s ; distinctive ; POS | vegetables ; distinctive ; POS | spices ; distinctive ; POS
+tables ; uncomfortably close ; NEG
+service ; on point ; POS
+menu ##s ; seasonal ; NEU
+car ##int ##hia cheese ravi ##oli with wild mushrooms ; simple ; POS | green spin ##ach - vodka sauce ; bright ; POS
+burger ##s ; small ; POS | burger ##s ; wi ##mp ##y fast food type ; POS | patti ##es ; real ; POS | patti ##es ; full sized ; POS
+lunch ; perfect ; NEU | delivery service ; fast ; POS
+quality ; better ; POS | prices ; cheaper ; POS
+specials ; go with ; POS | salmon ; stay away ; NEG
+pasta ##s ; good ; POS
+atmosphere ; bore ; NEG
+wait staff ; at ##ten ##tive ; POS | wait staff ; polite ; POS
+food ; greater ; POS
+dishes ; ta ##sty ; POS | place ; cozy ; POS | place ; intimate ; POS
+food ; love ; POS | food ; simplicity ; POS | food ; respect ; POS | staff ; love ; POS | staff ; fr ##ein ##dly ; POS | staff ; know ##led ##ga ##ble ; POS
+service ; good ; POS | atmosphere ; good ; POS
+bran ##zin ##i ; average ; NEU | fish ; average ; NEG
+food ; good ; POS | service ; prompt ; POS | price ; reasonable ; POS
+menu ; wonderful ; POS | am ##bian ##ce ; warm inviting ; POS | service ; great ; POS
+food ; great ; POS | wine ; good ; POS | host ; excellent ; POS
+pizza ##s ; excellent ; POS
+cal ##ama ##ri ; try ; POS | pasta ; try ; POS | sliced steak en ##tree ; try ; POS
+ca ##ese ##r salad ; great ; POS
+fried cal ##ama ##ri ; better ; POS
+food ; good ; POS
+food ; outstanding ; POS | service ; tops ; POS
+portions ; large ; POS | service ; fantastic ; POS
+chicken milan ##ese ; rec ##ome ##nd ; POS
+tap ##as ; excellent ; POS | prices ; great ; POS
+chocolate ras ##p ##berry cake ; heavenly ; POS | chocolate ras ##p ##berry cake ; not too sweet ; POS | chocolate ras ##p ##berry cake ; full of flavor ; POS | flavor ; full ; POS
+waiter ; helpful ; POS | waiter ; charming ; POS | food ; perfect ; POS | wine ; good ; POS
+hot dogs ; best ; POS
+service ; at ##ten ##tive ; POS | service ; generous ; POS
+food ; great ; POS | wine ; great ; POS | dessert ##s ; great ; POS
+dining experience ; lovely ; POS
+food ; is n ' t very good ; NEG | service ; terrible ; NEG
+es ##car ##go ##t ; best ; POS
+deco ; romantic ; POS | am ##bian ##ce ; romantic ; POS
+french food ; greatest ; POS
+curry ; enjoy ; POS
+poor ##i ; great ; POS | na ##an ; great ; POS | para ##tha ; fresh ; POS
+homemade bread ##s ; try ; POS
+su ##shi ; beautiful ; POS | su ##shi ; delicious cheap ; POS
+korean dishes ; affordable ; POS | korean dishes ; yu ##mmy ; POS
+waiter ; efficient ; POS | waiter ; helpful ; POS
+place ; class ##y ; POS | place ; chi ##c ; POS | service ; warm ; POS | service ; ho ##sp ##ita ##ble ; POS | food ; outstanding ; POS
+burger ##s ; great ; POS | grille ##d cheese ##s ; great ; POS | french fries ; great ; POS
+yellow ##fin tuna ; favorites ; POS | calf ' s liver ; favorites ; POS
+su ##shi ; fresh ; POS
+bill ; big ; NEG
+su ##shi ; fresh ; POS | duck ; try ; POS
+variety ; good ; POS
+green beans ; no ; NEU | egg ; no ; NEU | an ##cho ##vy dressing ; no ; NEU | nico ##ise olive ##s ; no ; NEU | red onion ; no ; NEU
+fries ; thick ; NEU | chocolate frost ##y ; cool ; POS | chocolate frost ##y ; ultra - thick ; POS
+rot ##i can ##ai app ##eti ##zer ; del ##ect ##able ; POS | mango chicken ; surprisingly sophisticated ; POS | mango chicken ; fresh ; POS
+ground chick ##pe ##a soup ; thin ; NEG | starter ; thin ; NEU
+service ; below ; NEG | bartender ##s ; horrible ; NEG | client ##ele ; row ##dy ; NEG | client ##ele ; loud - mouthed ; NEG | staff ; bad ; NEG
+meal ; great ; POS
+am ##bie ##nce ; beautiful ; POS | food ; excellent ; POS | catfish ; delicious ; POS | catfish ; salty ; POS | service ; at ##ten ##tive ; POS
+brisk ##et ; good ; POS | ribs ; good ; POS | wings ; good ; POS | ca ##jun shrimp ; good ; NEU
+atmosphere ; arts ##y ; POS | atmosphere ; laid - back ; POS
+menu ; impressive ; POS | menu ; creative ; POS | japanese dishes ; modern ; NEU | japanese dishes ; western ##ized ; NEU | f ##oi ##e gr ##as una ##gi nap ##ole ##an ; modern ; NEU | f ##oi ##e gr ##as una ##gi nap ##ole ##an ; western ##ized ; NEU | ja ##p style hamburger steak ; modern ; NEU | ja ##p style hamburger steak ; western ##ized ; NEU | spicy cod roe spaghetti ; modern ; NEU | spicy cod roe spaghetti ; western ##ized ; NEU | black cod with mis ##o base ; modern ; NEU | black cod with mis ##o base ; western ##ized ; NEU | rack of lamb in black tr ##uf ##fle sauce ; modern ; NEU | rack of lamb in black tr ##uf ##fle sauce ; western ##ized ; NEU
+food ; excellent ; POS | app ##eti ##zers ; not expensive ; POS
+food ; consist ##ant ; POS | food ; good ; POS
+pasta prima ##vera ; outstanding ; POS | fresh ve ##gg ##ies ; lots ; POS
+su ##shi ; good ; POS | su ##shi ; not fantastic ; POS
+pizza ; best ; POS
+food ; great ; POS
+wine ; great ; POS | dessert menu ; great ; POS
+place ; relaxing ; POS | bar ; nice ; POS
+am ##bian ##ce ; fine ; POS | am ##bian ##ce ; loud ; POS | am ##bian ##ce ; nice ; POS | am ##bian ##ce ; romantic ; POS
+file ##t mig ##non ; not very good ; NEG | non - su ##shi selection ; nice ; POS | app ##eti ##zers ; free ; POS
+size ; busy ; NEG
+chicken ta ##cos ; awesome ; POS | hi ##bis ##cus lemon ##ade ; awesome ; POS | place ; great ; POS
+place ; good ; POS | soup ; simple ; NEU | french dish ; classic ; NEU
+place ; nice ; POS
+casual drink ; enjoying ; POS | outdoors ; great ; POS
+dishes ; good ; POS | lamb en ##tree ; good ; POS | salad ##s ( av ##oca ##do shrimp ) ; good ; POS
+service ; slow ; NEG
+sauce ; excellent ; POS | sauce ; fresh ; POS
+drinks ; awful ; NEG | people ; worst ; NEG | dining ; worst ; NEG
+room ; plain ; NEG
+prices ; great ; POS
+space ; private ; POS | space ; comfortable ; POS | outdoor eating area ; small ; POS
+dessert ; best ; POS
+app ##eti ##zer ; winner ; NEU | cal ##ama ##ri ; winner ; POS
+room ; gorgeous ; POS | bi - level space ; gorgeous ; POS | long bar ; perfect ; POS
+app ##eti ##zer selection ; stink ##s ; NEG
+service ; prompt ; POS | service ; friendly ; POS
+chicken and fa ##la ##fe ##l platt ##ers ; non ##des ##cript ; NEU | fresh leaf salad ; fresh ; NEU
+waiter ##s ; bad ; NEG
+dessert ##s ; excellent ; POS | coffee ; good ; POS
+f ##oca ##cchi ##a bread ; die for ; NEU
+smooth ##ies ; big ; NEG | fresh juice ##s ; best ; POS
+pia ##lla ; good ; POS | dish ; good ; POS
+flavor ; lacking ; NEG
+prices ; raised ; NEG | new menu ; creative ; POS
+food ; good ; POS
+food ; med ##io ##cre ; NEU | prices ; ex ##or ##bit ##ant ; NEG
+service ; severely slow ; NEG | food ; med ##io ##cre ; NEU
+food ; med ##io ##cre ; NEU
+waiter ; rude ; NEG
+bartender ; sweet ; POS | bartender ; happy ; POS
+service ; bad ; NEG | drinks ; good ; NEU
+owner ; fake ; NEG
+owner ; pleasant ; POS | owner ; entertaining ; POS
+creamy app ##eti ##zers ; creamy ; POS | creamy app ##eti ##zers ; excellent ; POS | warm pit ##as ; warm ; NEU | tara ##mas ##ala ##ta ; creamy ; POS | egg ##pl ##ant salad ; excellent ; POS | greek yo ##gur ##t ( with cu ##cc ##umber , dil ##l , and garlic ) ; excellent ; POS
