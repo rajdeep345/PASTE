@@ -43,6 +43,7 @@ Dropout: 0.5
 No. of epochs: 100
 Batch Size: 10
 No. of trainable parameters: ~ 6 mil.
+Training time per epoch: 12 seconds
 ```
 
 ### PASTE - With BERT
@@ -68,6 +69,7 @@ Dropout: 0.5
 No. of epochs: 30 for individual datasets, 50 for resall.
 Batch Size: 16
 No. of trainable parameters: ~ 128 mil.
+Training time per epoch: 40 seconds
 ```
 ### Code to obtain the prediction performance for each element of an opinion triplet:
 ```bash
